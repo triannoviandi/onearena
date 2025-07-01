@@ -12,7 +12,7 @@ class OneArenaApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'OneArena',
+      title: 'OneArenaApp',
       debugShowCheckedModeBanner: false,
       theme: _buildDarkTheme(),
       home: const MainScreen(),
